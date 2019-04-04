@@ -1,32 +1,29 @@
 ---
 layout: cv
-title: David Whipp's CV
+title: Omair A. Khan's CV
 ---
-# David Whipp
-Associate professor, University of Helsinki
+# Omair A. Khan
+Biostatistician II, Vanderbilt University Medical Center
 
-Institute of Seismology, Department of Geosciences and Geography<br/>
-P.O. Box 68 (Pietari Kalmin katu 5)<br/>
-FI-00014 University of Helsinki, Finland<br/>
+Department of Biostatistics<br/>
+2525 West End Ave Ste 1100<br/>
+Nashville, TN, 37203-1741<br/>
 
-<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
+<a href="omair.a.khan@vumc.org">omair.a.khan@vumc.org</a> - 615.343.3921
 
 <div id="webaddress">
-  <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - 
-  <a href="https://wiki.helsinki.fi/x/3xjABg"><i class="fas fa-users"></i> wiki.helsinki.fi/x/3xjABg (group)</a><br/>
-  <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
-  <a href="https://orcid.org/0000-0002-3820-6886"><i class="ai ai-orcid"></i> 0000-0002-3820-6886</a> - 
-  <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
-  <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a>
+  <a href="http://fullstackstatistician.com"><i class="fas fa-home"></i> fullstackstatistician.com</a> - 
+  <a href="https://github.com/fullstackstatistician"><i class="fab fa-github"></i> fullstackstatistician</a> - 
+  <a href="https://scholar.google.com/citations?hl=en&user=yhHu6qUAAAAJ"><i class="ai ai-google-scholar"></i> Omair A. Khan</a> - 
 </div>
 
 ## Education
 
-`2003-2008`
-**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
+`2014-2016`
+**MAS, Applied Statistics**, *The Pennsylvania State University*, University Park, PA, USA.
 
-`1998-2002`
-**B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
+`2003-2007`
+**B.S., Biochemistry (Japanese minor)**, *Southern Methodist University*, Dallas, TX, USA.
 
 ## Experience
 
